@@ -1,0 +1,10 @@
+﻿Persistence Check
+Date: 2026-10-25 13:43:35
+Database: data/urls.db
+Short code: NPyCUqd
+Original URL: https://example.com/persistence-check
+Click count before restart: 1
+Click count after restart: 1
+Creation timestamp before restart: 2026-10-25T08:03:56.013246+00:00
+Creation timestamp after restart: 2026-10-25T08:03:56.013246+00:00
+Record persisted: True
